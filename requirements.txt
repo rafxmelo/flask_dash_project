@@ -1,0 +1,5 @@
+flask
+dash
+pillow
+textblob
+jupyter
